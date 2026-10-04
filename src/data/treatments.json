@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ayurveda-consultation",
+    "name": "Ayurveda Consultation & Care",
+    "category": "Diagnostics",
+    "shortDescription": "Root-cause diagnostic assessment examining Prakriti, Vikriti, lifestyle, and individual pulse evaluation.",
+    "description": "A 45-minute comprehensive consultation with our senior physicians. Includes Prakriti (body constitution) analysis, pulse diagnosis (Nadi Pariksha), dietary counseling, and personalized prescription planning.",
+    "image": "/ayurveda-consultation.jpg",
+    "featured": true
+  },
+  {
+    "id": "panchakarma-programs",
+    "name": "Panchakarma Detox & Rejuvenation",
+    "category": "Therapies",
+    "shortDescription": "Traditional 5-fold purification therapeutic programs administered under physician oversight.",
+    "description": "Structured therapeutic detoxification designed to eliminate bio-accumulated toxins (Ama), restore metabolic Agni, and revitalize tissue immunity through authentic traditional procedures.",
+    "image": "/panchakarma-detox.jpg",
+    "featured": true
+  },
+  {
+    "id": "traditional-therapies",
+    "name": "Traditional Ayurvedic Therapies",
+    "category": "Bodywork",
+    "shortDescription": "Abhyanga, Kizhi, Shirodhara, and specialized localized Basti treatments for joint and nerve relief.",
+    "description": "Targeted external therapies utilizing medicated herbal oils, warm herbal poultices (Kizhi), continuous forehead oil pouring (Shirodhara), and specialized joint reservoirs.",
+    "image": "/traditional-therapies.jpg",
+    "featured": true
+  },
+  {
+    "id": "wellness-yoga",
+    "name": "Wellness, AHARA & Therapeutic Yoga",
+    "category": "Lifestyle",
+    "shortDescription": "Integrating customized South Indian nutrition, daily routine (Dinacharya), and therapeutic movement.",
+    "description": "Holistic lifestyle integration matching your biological rhythm. Includes personalized AHARA meal maps, seasonal routines (Ritucharya), and therapeutic yoga postures.",
+    "image": "/wellness-yoga.jpg",
+    "featured": true
+  }
+]

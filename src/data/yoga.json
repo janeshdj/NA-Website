@@ -1,0 +1,46 @@
+[
+  {
+    "id": "YOGA-BACK-001",
+    "title": "Therapeutic Yoga for Spinal & Joint Care",
+    "level": "Beginner to Gentle",
+    "goal": "Vata Pacification & Spinal Decompression",
+    "description": "Gentle posture sequences designed by Ayurveda physicians to relieve lower back strain, lumbar stiffness, and sciatica tension.",
+    "asanas": ["Marjaryasana-Bitilasana (Cat-Cow)", "Bhujangasana (Gentle Cobra)", "Setu Bandhasana (Supported Bridge)", "Supta Padangusthasana"],
+    "pranayama": "Nadi Shodhana (Alternate Nostril Breathing)",
+    "duration": "25 mins daily",
+    "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "YOGA-GUT-002",
+    "title": "Agni Stimulating Yoga for Digestive Health",
+    "level": "All Levels",
+    "goal": "Metabolic Agni Activation & Gas Relief",
+    "description": "Postures targeting the abdominal cavity to stimulate peristalsis, relieve bloating, and soothe irritable bowel tendencies.",
+    "asanas": ["Pawanmuktasana (Wind-Relieving Pose)", "Ardha Matsyendrasana (Half Spinal Twist)", "Dhanurasana (Bow Pose)", "Vajrasana (Post-Meal Seated Pose)"],
+    "pranayama": "Kapalabhati (Mild Agni Cleansing) & Deep Abdominal Breathing",
+    "duration": "20 mins daily",
+    "image": "https://images.unsplash.com/photo-1545205597-3d9d02c29597?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "YOGA-STRESS-003",
+    "title": "Restorative Mind-Body Calm & Sleep Yoga",
+    "level": "Restorative",
+    "goal": "Nervous System De-excitation & Deep Ojas Renewal",
+    "description": "Deep restorative stretches and guided meditation to calm mental overactivity, migraine tension, and insomnia.",
+    "asanas": ["Viparita Karani (Legs-Up-The-Wall)", "Child's Pose (Balasana)", "Supta Baddha Konasana", "Savasana with Body Scan"],
+    "pranayama": "Bhramari (Humming Bee Pranayama) & Ujjayi Calm Breathing",
+    "duration": "30 mins evening",
+    "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "YOGA-WOMEN-004",
+    "title": "Hormonal Harmony & Pelvic Yoga",
+    "level": "Gentle",
+    "goal": "Apana Vata Balance & Pelvic Circulation",
+    "description": "Tailored movement protocols supporting menstrual comfort, PCOS metabolic sensitivity, and smooth menopausal transitions.",
+    "asanas": ["Baddha Konasana (Butterfly Pose)", "Upavistha Konasana", "Supported Supta Virasana", "Malasana (Garland Pose)"],
+    "pranayama": "Sheetali (Cooling Pranayama) & Anuloma Viloma",
+    "duration": "25 mins daily",
+    "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&q=80&w=800"
+  }
+]

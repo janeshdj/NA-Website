@@ -1,0 +1,26 @@
+[
+  {
+    "id": "dr-saranya-k",
+    "name": "Dr. Saranya K.",
+    "title": "Senior Ayurveda Physician",
+    "employeeCode": "NAC-EC01",
+    "qualification": "BAMS — Bachelor of Ayurvedic Medicine & Surgery",
+    "specialization": ["Panchakarma Therapy", "Women's Health & PCOS", "Chronic Musculoskeletal Disorders", "Kayachikitsa (Internal Medicine)"],
+    "experience": "8+ Years Clinical Practice",
+    "languages": ["Tamil", "English", "Malayalam"],
+    "bio": "Dr. Saranya K. combines deep root-cause diagnostic precision with compassionate patient listening. Dedicated to authentic classical Panchakarma therapies tailored strictly to each individual's Prakriti.",
+    "image": "/dr-saranya.jpg"
+  },
+  {
+    "id": "dr-sathiyaraj-n",
+    "name": "Dr. Sathiyaraj N.",
+    "title": "Senior Ayurveda Physician & Panchakarma Specialist",
+    "employeeCode": "NAC-EC02",
+    "qualification": "BAMS — Bachelor of Ayurvedic Medicine & Surgery",
+    "specialization": ["Digestive & Metabolic Disorders", "Neurological Rehabilitation", "Spinal & Sciatica Care", "Lifestyle Medicine"],
+    "experience": "9+ Years Clinical Practice",
+    "languages": ["Tamil", "English"],
+    "bio": "Dr. Sathiyaraj N. specializes in non-invasive restorative spinal care, chronic metabolic management, and integrating AHARA dietetics into long-term patient recovery plans.",
+    "image": "/dr-sathiyaraj.jpg"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "step": "01",
+    "phase": "UNDERSTAND & DISCOVER",
+    "title": "Explore Care Pathways",
+    "description": "Browse condition-specific Ayurvedic perspectives, Panchakarma therapy guides, and AHARA nutrition principles on our digital front door."
+  },
+  {
+    "step": "02",
+    "phase": "CONSULT & ASSESS",
+    "title": "Unhurried BAMS Consultation",
+    "description": "Meet Dr. Saranya K. or Dr. Sathiyaraj N. for pulse diagnosis (Nadi Pariksha), Prakriti analysis, and lifestyle audit."
+  },
+  {
+    "step": "03",
+    "phase": "PERSONALIZE CARE PLAN",
+    "title": "One Patient, One Care Plan",
+    "description": "Receive a compounding care plan integrating classical medicine prescriptions, therapy orders, AHARA food maps, and therapeutic yoga."
+  },
+  {
+    "step": "04",
+    "phase": "CLINICAL THERAPY & OPERATING CARE",
+    "title": "Panchakarma & Therapy Execution",
+    "description": "Undergo authentic therapies (Abhyanga, Kizhi, Shirodhara, or Panchakarma) administered by trained therapists under doctor supervision."
+  },
+  {
+    "step": "05",
+    "phase": "AHARA & LIFESTYLE HABITS",
+    "title": "Everyday Metabolic Reset",
+    "description": "Implement customized South Indian culinary routines, seasonal eating (Ritucharya), and gentle pranayama at home."
+  },
+  {
+    "step": "06",
+    "phase": "CONTINUITY & PATIENT 360",
+    "title": "Long-Term Reassessment",
+    "description": "Regular follow-ups track your vital energy (Ojas) recovery, adapting care intensity as your health transforms."
+  }
+]

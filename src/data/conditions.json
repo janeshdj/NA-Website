@@ -1,0 +1,112 @@
+[
+  {
+    "id": "musculoskeletal",
+    "name": "Musculoskeletal Care",
+    "description": "Joint mobility, spinal alignment, cartilage preservation, and neuromuscular pain management.",
+    "items": [
+      {
+        "name": "Arthritis & Joint Stiffness",
+        "description": "Understanding joint wear, inflammation, and stiffness in knee, shoulder, and small joints.",
+        "ayurvedicPerspective": "Focused on pacifying Vata aggravation in Sandhi (joints) through warm herbal Kizhi and Janu Basti oil retention treatments."
+      },
+      {
+        "name": "Back & Neck Strain",
+        "description": "Addressing postural strain, cervical disc stiffness, and lumbar muscle spasms.",
+        "ayurvedicPerspective": "Utilizes Greeva Basti and Kati Basti with deep tissue Abhyanga to nourish intervertebral discs and relax paraspinal muscles."
+      },
+      {
+        "name": "Sciatica & Nerve Compression",
+        "description": "Radiating nerve pain, leg numbness, and lower back nerve compression relief.",
+        "ayurvedicPerspective": "Combines Matra Basti enema therapy with specialized herbal steam (Nadi Sweda) to relieve Vata entrapment along sciatic pathways."
+      }
+    ]
+  },
+  {
+    "id": "digestive",
+    "name": "Digestive & Gut Health",
+    "description": "Restoring gut bio-microbiome, Agni (digestive fire), and metabolic assimilation.",
+    "items": [
+      {
+        "name": "Irritable Bowel & Gut Distress",
+        "description": "Navigating irregular bowel rhythm, abdominal cramping, bloating, and food intolerances.",
+        "ayurvedicPerspective": "Stabilizes Grahani function using gut-soothing herbal formulations, Takradhara (buttermilk pour), and AHARA meal timing."
+      },
+      {
+        "name": "Hyperacidity & Gastric Distress",
+        "description": "Managing burning sensations, acid reflux, and chronic gastric irritation.",
+        "ayurvedicPerspective": "Cools Pitta imbalance through cooling herbal Kashayams, Avipattikar churna, and mild digestive reset protocols."
+      },
+      {
+        "name": "Chronic Constipation",
+        "description": "Restoring natural peristalsis, hydration balance, and colon elimination.",
+        "ayurvedicPerspective": "Nourishes Apana Vata using lubricating herbal oils, flax fiber guidance, and mild natural purgation (Virechana)."
+      }
+    ]
+  },
+  {
+    "id": "neurological",
+    "name": "Neurological & Nervous System",
+    "description": "Soothing nervous exhaustion, cognitive stress, migraine headaches, and peripheral neuropathies.",
+    "items": [
+      {
+        "name": "Migraine & Vascular Headaches",
+        "description": "Addressing throbbing unilateral headaches, light sensitivity, and stress triggers.",
+        "ayurvedicPerspective": "Clears sinus and cranial channels via Nasya (nasal administration) and forehead Shirodhara with medicated oils."
+      },
+      {
+        "name": "Neuropathy & Nerve Tingling",
+        "description": "Supporting nerve conduction, peripheral numbness, and burning feet sensations.",
+        "ayurvedicPerspective": "Nourishes Majja Dhatu (nerve tissue) using warm herbal foot baths, Ksheeradhara, and neuro-protective rasayanas."
+      },
+      {
+        "name": "Parkinson's & Neuromuscular Support",
+        "description": "Supportive care for motor tremors, muscle rigidity, and balance stability.",
+        "ayurvedicPerspective": "Integrates high-Vata pacifying Basti therapies, Brahmi-infused ghee, and gentle therapeutic yoga movements."
+      }
+    ]
+  },
+  {
+    "id": "metabolic",
+    "name": "Metabolic & Lifestyle Wellness",
+    "description": "Managing blood sugar balance, lipid profiles, fatty liver, and weight management.",
+    "items": [
+      {
+        "name": "Diabetes & Glycemic Support",
+        "description": "Supportive care for blood glucose fluctuations, fatigue, and metabolic sluggishness.",
+        "ayurvedicPerspective": "Targets Kapha-Medo imbalance with bitter herbal decoctions (Mehahara kashayam) and structured exercise guidelines."
+      },
+      {
+        "name": "Weight & Metabolic Reset",
+        "description": "Addressing stubborn visceral fat, sluggish thyroid metabolism, and fluid retention.",
+        "ayurvedicPerspective": "Employs dry herbal powder massage (Udwarthanam) to stimulate lymphatic drainage and break down subcutaneous Meda."
+      },
+      {
+        "name": "Fatty Liver & Detox",
+        "description": "Supporting liver enzymatic health, lipid processing, and cellular detox.",
+        "ayurvedicPerspective": "Promotes Yakrut (liver) health through Katuki and Bhoomyamalaki herbal tonics and seasonal Virechana purification."
+      }
+    ]
+  },
+  {
+    "id": "womens-health",
+    "name": "Women's Health & Hormonal Balance",
+    "description": "Hormonal harmony, menstrual regularity, PCOS support, and menopausal wellness.",
+    "items": [
+      {
+        "name": "PCOS & Menstrual Irregularity",
+        "description": "Navigating cystic ovarian tendencies, delayed cycles, hormonal acne, and insulin resistance.",
+        "ayurvedicPerspective": "Purifies Artava Vaha Srotas (female reproductive channels) through tailored Uttara Basti and metabolic AHARA plans."
+      },
+      {
+        "name": "Dysmenorrhea & Pelvic Comfort",
+        "description": "Relieving painful menstrual cramps, lower back ache, and premenstrual mood shifts.",
+        "ayurvedicPerspective": "Pacifies pelvic Vata using warm oil compress (Yoni Pichu), soothing Dhanwantharam herbal formulations, and rest."
+      },
+      {
+        "name": "Menopausal Transition",
+        "description": "Managing hot flashes, night sweats, mood volatility, and bone density changes.",
+        "ayurvedicPerspective": "Replenishes tissue Rasayanas with Shatavari and Ksheerabala oils to ensure smooth, graceful hormonal transition."
+      }
+    ]
+  }
+]

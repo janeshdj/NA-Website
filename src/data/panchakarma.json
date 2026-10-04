@@ -1,0 +1,47 @@
+[
+  {
+    "id": "vamana",
+    "name": "Vamana",
+    "sanskritName": "வமனா (வமன சிகிச்சை)",
+    "englishTitle": "Therapeutic Emesis",
+    "description": "Classical controlled elimination of accumulated Kapha toxins from the upper gastrointestinal tract and respiratory channels.",
+    "benefits": ["Clears deep respiratory congestion", "Balances chronic skin Kapha imbalances", "Restores upper Agni (digestive fire)"],
+    "image": "/vamana.jpg"
+  },
+  {
+    "id": "virechana",
+    "name": "Virechana",
+    "sanskritName": "விரேசனா (விாேசன சிகிச்சை)",
+    "englishTitle": "Therapeutic Purgation",
+    "description": "Targeted elimination of excess Pitta toxins from the liver, gallbladder, small intestine, and blood vascular system.",
+    "benefits": ["Purifies liver and bile metabolism", "Cools chronic skin inflammation", "Relieves hyperacidity and gut heat"],
+    "image": "/virechana.jpg"
+  },
+  {
+    "id": "basti",
+    "name": "Basti",
+    "sanskritName": "வஸ்தி (வஸ்தி சிகிச்சை)",
+    "englishTitle": "Medicated Enema Therapy",
+    "description": "The mother of all Panchakarma treatments. Delivers herbal oils and decoctions into the colon to pacify aggravated Vata.",
+    "benefits": ["Restores spinal and joint mobility", "Nourishes nervous system and brain tissue", "Balances chronic constipation & gut flora"],
+    "image": "/basti.jpg"
+  },
+  {
+    "id": "nasya",
+    "name": "Nasya",
+    "sanskritName": "நஸ்யா (நாசி சிகிச்சை)",
+    "englishTitle": "Nasal Instillation",
+    "description": "Administration of medicated herbal oils or powders through the nasal passages—the gateway to the brain and head region.",
+    "benefits": ["Relieves chronic sinusitis and migraine", "Enhances memory and mental clarity", "Strengthens neck and cervical nerve roots"],
+    "image": "/nasya.jpg"
+  },
+  {
+    "id": "raktamokshana",
+    "name": "Raktamokshana",
+    "sanskritName": "ரக்தமோக்ஷணம்",
+    "englishTitle": "Blood Purification Therapy",
+    "description": "Localized micro-purification of stagnant or vitiated blood tissue using traditional leech therapy (Jalaukavacharana) or cupping.",
+    "benefits": ["Relieves localized venous stagnation", "Cools severe localized skin eruptions", "Reduces joint pain & inflammatory congestion"],
+    "image": "/raktamokshana.jpg"
+  }
+]

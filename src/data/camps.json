@@ -1,0 +1,26 @@
+[
+  {
+    "id": "heritage-wellness-camp",
+    "title": "Free Community Health & Bone Density Screening",
+    "location": "Heritage Town Center, Puducherry",
+    "date": "July 2026",
+    "description": "Provided free Ayurvedic consultations, joint pulse screenings, and medicinal herbal tea distributions to over 180 local residents.",
+    "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "ahara-school-workshop",
+    "title": "School AHARA Awareness & Youth Nutrition Drive",
+    "location": "Puducherry Central Academy",
+    "date": "May 2026",
+    "description": "Educating parents and students on native South Indian grain nutrition, gut health, and reducing ultra-processed food habits.",
+    "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "international-yoga-day",
+    "title": "Coastal Sun Salutation & Pranayama Meditation",
+    "location": "Promenade Beach, Puducherry",
+    "date": "June 21, 2026",
+    "description": "Led an open morning breathing and therapeutic yoga session for community mental clarity and Vata balancing.",
+    "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&q=80&w=800"
+  }
+]

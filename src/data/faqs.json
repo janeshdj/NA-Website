@@ -1,0 +1,32 @@
+[
+  {
+    "id": "FAQ-PK-001",
+    "category": "Panchakarma",
+    "question": "What happens during a Panchakarma consultation and treatment episode at Neithal?",
+    "answer": "Panchakarma begins with a thorough 45-minute pulse (Nadi) and Prakriti diagnostic consultation with our BAMS physicians. Pre-treatment (Purvakarma) prepares toxins via internal oleation (Snehapana) and herbal steam (Swedana), followed by the primary therapeutic procedure (Vamana, Virechana, Basti, Nasya, or Raktamokshana) and a structured post-care diet (Samsarjana Krama)."
+  },
+  {
+    "id": "FAQ-CONSULT-002",
+    "category": "Consultation",
+    "question": "What is the difference between an in-person clinic visit and an online video consult?",
+    "answer": "In-person clinic visits at our Heritage Town Puducherry center allow direct physical pulse diagnosis (Nadi Pariksha), joint mobility tests, and immediate physical therapy administration. Online consultations focus on diagnostic listening, medical history evaluation, custom herbal prescriptions, and personalized AHARA diet planning."
+  },
+  {
+    "id": "FAQ-AHARA-003",
+    "category": "AHARA Nutrition",
+    "question": "Does Neithal impose rigid restrictive diets for health conditions?",
+    "answer": "No. Neithal AHARA emphasizes 'Ahara is Aushadha' (food as everyday sustenance) by adapting traditional South Indian recipes (kanjis, rasams, fermented rice, native spices) to balance your digestive fire (Agni) without unsustainable restrictions."
+  },
+  {
+    "id": "FAQ-PHARMACY-004",
+    "category": "Pharmacy & Medicines",
+    "question": "Are Neithal classical formulations manufactured in GMP-certified facilities?",
+    "answer": "Yes. All classical Kashayams, medicated Thailams, Arishtams, and fresh churnas dispensed at Neithal Pharmacy are procured from certified GMP manufacturing units and verified by our senior BAMS physicians."
+  },
+  {
+    "id": "FAQ-SAFETY-005",
+    "category": "Safety & Suitability",
+    "question": "Can I undergo Ayurvedic care alongside my existing conventional medications?",
+    "answer": "Yes. Our senior physicians carefully evaluate your current medication history during consultation to ensure safe, integrative care without adverse herb-drug interactions."
+  }
+]

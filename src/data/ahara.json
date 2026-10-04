@@ -1,0 +1,30 @@
+[
+  {
+    "id": "south-indian-diet",
+    "title": "South Indian Heritage Dietetics",
+    "subtitle": "Mindful Culinary Wisdom",
+    "description": "Harmonizing traditional Tamil and South Indian recipes (Kanjis, Rasams, fermented rice grains) with individual Prakriti metabolic needs.",
+    "image": "https://images.unsplash.com/photo-1610192244261-3f33de3f55e4?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "personalized-guidance",
+    "title": "Personalized Meal Architecture",
+    "subtitle": "Tailored to Your Agni",
+    "description": "Moving away from rigid fad diets. Receive structured meal plans matching your unique digestive strength, work rhythm, and season.",
+    "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "food-lifestyle",
+    "title": "Food as Everyday Sustenance",
+    "subtitle": "Ahara is Aushadha",
+    "description": "Learn the therapeutic properties of native spices—turmeric, black pepper, cumin, curry leaves, and mustard seeds—in daily cooking.",
+    "image": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "seasonal-wellness",
+    "title": "Ritucharya (Seasonal Eating)",
+    "subtitle": "Aligned with Nature",
+    "description": "Adapting your kitchen ingredients to seasonal climatic shifts in coastal Puducherry, protecting immunity across summer, monsoon, and winter.",
+    "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&q=80&w=800"
+  }
+]

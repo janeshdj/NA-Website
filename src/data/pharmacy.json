@@ -1,0 +1,34 @@
+[
+  {
+    "id": "classical-kashayams",
+    "title": "Classical Decoctions (Kashayams)",
+    "category": "Authentic Formulations",
+    "description": "Concentrated liquid herbal extracts prepared strictly according to Sahasrayogam and Ashtanga Hrudayam formulations.",
+    "badge": "Classical",
+    "image": "https://images.unsplash.com/photo-1546554137-f86b9593a222?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "herbal-thailams",
+    "title": "Medicated Oils (Thailams)",
+    "category": "External Application",
+    "description": "Sesame oil and coconut oil infused with potent botanicals for joint relief, nerve nourishment, and scalp care.",
+    "badge": "Organic",
+    "image": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "arishthams-asavas",
+    "title": "Natural Fermentations (Arishtams)",
+    "category": "Digestive & Tonic",
+    "description": "Self-generated natural herbal tonics supporting digestive assimilation, blood health, and vitality.",
+    "badge": "Classical",
+    "image": "https://images.unsplash.com/photo-1514733670139-4d87a1941d55?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "neithal-formulations",
+    "title": "Neithal Proprietary Wellness",
+    "category": "Modern Formulations",
+    "description": "Physician-compounded herbal teas, churnas, and personal care oils crafted for modern daily living.",
+    "badge": "Neithal Signature",
+    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&q=80&w=800"
+  }
+]
